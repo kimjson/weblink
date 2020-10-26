@@ -1,0 +1,12 @@
+.Item-high {
+  color: red;
+  font-weight: bold;
+}
+
+.Item-mid {
+  color: blue;
+}
+
+.Item-low {
+  color: black;
+}
